@@ -1,6 +1,6 @@
 ## 星际九灬黎氏族
 
-本网站由星际战甲国服氏族九灬黎建立，加入氏族请点击 [这里](https://jq.qq.com/?_wv=1027&k=55M5p5s) to maintain and preview the content for your website in Markdown files.
+本网站由星际战甲国服氏族九灬黎建立，加入氏族请点击 [这里](https://jq.qq.com/?_wv=1027&k=55M5p5s) （加入官方QQ群）
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
