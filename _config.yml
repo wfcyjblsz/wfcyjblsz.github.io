@@ -17,7 +17,7 @@ title:
 email: 860400875@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
   本网站为九灬黎氏族官方发布，如有改进方案请发送至官方邮箱
-baseurl: "主页" # the subpath of your site, e.g. /blog
+baseurl: "https://wfcyjblsz.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  wfcyjblsz
 
