@@ -13,15 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: WarframeCC的网站
-email: 2642441311@qq.com
+title: 氏族九灬黎
+email: 860400875@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
-  与流么员政称信空米，现精打门积将列，战发-豆认卖呆。
-  明证六给们飞家七周数县低权间，己向千可教孟些吼能以厕。
-  期该拉极知准建平专几做，中七它阶主放心听格会，眼石件Q维采车及油中。
+  本网站为九灬黎氏族官方发布，如有改进方案请发送至官方邮箱
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://warframecc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  warframecc
+url: "https://wfcyjblsz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  wfcyjblsz
 
 # Build settings
 markdown: kramdown
